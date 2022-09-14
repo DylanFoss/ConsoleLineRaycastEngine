@@ -1,6 +1,6 @@
 # ConsoleLineRaycastEngine
-An attempt of creating a raycaster, using the windows console and ascii characters to display the world. Was 
-
+An attempt of creating a raycaster, using the windows console and ascii characters to display the world. Using a DDA algorithim for it's raycasting methods, a 2D array of 'Walls' can be found from the players postion, and a room can be drawn just using the distance from these walls.
+ 
 ![image](https://user-images.githubusercontent.com/57671477/190220927-e3f8dc7c-e032-4367-a97f-08e7c681167f.png)
 
 ## Controls
@@ -25,7 +25,8 @@ Since this uses the windows console for visuals, previous settings may make the 
 ![image](https://user-images.githubusercontent.com/57671477/190221589-b3323ab4-a399-4c67-ba6c-1412759b3250.png)
 
 ## Special Thanks:
-To these resources:
+To these resources!
 
 [Raycasting - Lode Vandevenne](https://lodev.org/cgtutor/raycasting.html)
+
 [Super Fast Ray Casting in Tiled Worlds using DDA - One Lone Coder](https://www.youtube.com/watch?v=NbSee-XM7WA)
