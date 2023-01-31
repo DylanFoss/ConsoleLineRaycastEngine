@@ -26,6 +26,10 @@ Since this uses the windows console for visuals, previous settings may make the 
 ![image](https://user-images.githubusercontent.com/57671477/190221651-c679b2e6-c156-42a6-9106-9ff51859bbd9.png)
 ![image](https://user-images.githubusercontent.com/57671477/190221589-b3323ab4-a399-4c67-ba6c-1412759b3250.png)
 
+### Update 31/01/23
+
+Opening the .exe with the newer terminal (Windows Host) does not bode well. This can be fixed by switiching back to the old Windows terminal by default, or more simply running the .exe as an administrator.
+
 ## Special Thanks:
 To these resources!
 
